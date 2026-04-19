@@ -5,6 +5,10 @@
 
 ##
 
+![Snake animation](https://raw.githubusercontent.com/PauloRbtoCodes/PauloRbtoCodes/output/github-snake-dark.svg)
+
+##
+
 ### 🛠️ Tech Stack
 
 <table border="0" align="left">
