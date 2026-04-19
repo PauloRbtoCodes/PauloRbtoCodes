@@ -45,7 +45,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRbtoCodes&layout=compact&theme=dark)](https://github.com/PauloRbtoCodes)
 
-[![Lattes](https://img.shields.io/badge/Currículo%20Lattes-1A73E8?style=for-the-badge&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/6039280705076669)
 
 </div>
 
