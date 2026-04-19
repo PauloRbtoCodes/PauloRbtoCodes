@@ -1,6 +1,6 @@
 ## Olá eu sou o Paulo👋
 
-[![GitHub stats de Paulo](https://github-readme-stats.vercel.app/api?username=PauloRbtoCodes&show_icons=true&theme=dark&count_private=true&include_all_commits=true&rank_icon=github)](https://github.com/PauloRbtoCodes)
+[![GitHub stats de Paulo](https://github-readme-stats.vercel.app/api?username=PauloRbtoCodes&show_icons=true&theme=dark&count_private=true&include_all_commits=true&cache_seconds=1800)](https://github.com/PauloRbtoCodes)
 [![Top Langs de Paulo](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRbtoCodes&layout=donut-vertical&theme=dark)](https://github.com/PauloRbtoCodes)
 
 ##
